@@ -1,0 +1,3 @@
+this_is_snake_case: usado para nome de variaveis e metodos
+identacao: sempre usar 2 espaços,o tab usa 4
+classes: usar camel case.Em JavaScript:camelCase e Ruby:CamelCase. Usar essa ultima JavaScript
